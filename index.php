@@ -3,4 +3,4 @@
     phpinfo();
 
 
-	//head2です。
+	//head2//
